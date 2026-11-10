@@ -20,7 +20,7 @@ corp.local
 └── Workstations
 
 ### Infrastructure Evidence
-*(Paste Screenshot 1 below this line)*
+![](01-ad-structure-corp-objects.png)
 
 ---
 
